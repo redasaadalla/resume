@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Reda Saadalla"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Founder - Digital Transformation Innovators Group (DTIG)"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
