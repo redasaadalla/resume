@@ -14,7 +14,7 @@ resume_name:                    "Reda Saadalla"
 resume_title:                   "Founder - Digital Transformation Innovators Group (DTIG)"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "reda.saadalla@dtig.us"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
