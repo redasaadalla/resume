@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Reda Saadalla"
-resume_title:                   "Founder - Digital Transformation Innovators Group (DTIG)"
+resume_title:                   "Founder - DTIG"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "reda.saadalla@dtig.us"
