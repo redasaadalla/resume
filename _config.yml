@@ -17,10 +17,10 @@ resume_title:                   "Founder - DTIG"
 resume_contact_email:           "reda.saadalla@dtig.us"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "(773) 273-9570"
+resume_contact_address:         "Chicago, IL"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Chicago, IL • (773) 273-9570 • reda.saadalla@dtig.us"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
